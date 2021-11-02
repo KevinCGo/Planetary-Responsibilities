@@ -90,7 +90,7 @@ background-size: 500px 600px;
 .flip-card1 {
   background-color: transparent;
   width: 450px;
-  height: 200px;
+  height: 220px;
   border: 2px solid #f1f1f1;
 }
 
@@ -136,7 +136,7 @@ background-size: 500px 600px;
 .flip-card {
     background-color: transparent;
     width: 450px;
-    height: 450px;
+    height: 320px;
     border: 2px solid #f1f1f1;
   }
   
